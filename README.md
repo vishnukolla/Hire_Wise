@@ -1,1 +1,1 @@
-# Hire_Wise
+Its is a major project with the intersection of nlp and machine learning .It helps tosolve the real words problem of selecting candidates based on resume filtering and reduces time consumption.The hiring manager can upload the candidate's resume and ask for the required skills from the person, in reyurn the output would be the extracted skills from the person's resume and the job category and the matched skills# Hire_Wise
